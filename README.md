@@ -6,6 +6,6 @@ A basic neural network architecture, with a row vector $X$ as the input layer an
 
 $X$ $\longrightarrow$ Hidden Layers $\longrightarrow$ $Y$
 
-The row vector $X$ contains the data that we wish to feed through the neural network. In general $X\in\mathbb{R^{i}}$ 
+The row vector $X$ contains the data that we wish to feed through the neural network. In general $X\in\mathbb{R^{i}}$ so that $X=[x_{1}, x_{2}, ..., x_{i}]^{T}$
 
 
