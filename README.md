@@ -1,3 +1,8 @@
-# FCNeuralNetwork
+# Fully Connected Neural Network (FCNeuralNetwork) in Python
 
-$\frac{dy}{dx}$
+## Detailed Description of the Classes
+The python file contains 4 classes, namely "Layer", "FCLayer", "Activation Layer" and "Network".
+
+### The "Layer" class:
+
+
