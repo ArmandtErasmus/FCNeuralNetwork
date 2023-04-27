@@ -6,12 +6,6 @@ A basic neural network architecture, with a row vector $X$ as the input layer an
 
 $X$ $\longrightarrow$ Hidden Layers $\longrightarrow$ $Y$
 
-
-
-
-## Detailed Description of the Classes
-The python file contains 4 classes, namely "Layer", "FCLayer", "Activation Layer" and "Network".
-
-### The "Layer" class:
+The row vector $X$ contains the data that we wish to feed through the neural network. In general $X\in\mathbb{R^{i}}$ 
 
 
