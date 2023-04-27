@@ -4,9 +4,8 @@ The aim of this project is to create a feed forward neural network in python tha
 
 A basic neural network architecture is shown below
 
-\begin{tabbing}
-$X$ \= $\longrightarrow$ =\ Hidden Layers \= $\longrightarrow$
-\end{tabbing}
+$X$ $\longrightarrow$ Hidden Layers $\longrightarrow$
+
 
 
 
