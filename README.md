@@ -10,6 +10,6 @@ The row vector $X$ contains the data that we wish to feed through the neural net
 
 $y_{j}=\sum_{i}x_{i}w_{ij} + b_{j}$
 
-where $Y=[y_{1}, y_{2}, ..., y_{j}]$, and $B=[b_{1}, b_{2}, ..., b_{j}]$. Note that $W=[w_{ij}]$ is an $i\times j$ matrix with the weights of each edge as entries.
+where $Y=[y_{1}, y_{2}, ..., y_{j}]$, and $B=[b_{1}, b_{2}, ..., b_{j}]$. Note that $W=[w_{ij}]$ is an $i\times j$ matrix with the weights of each edge as entries of a neuron.
 
 
